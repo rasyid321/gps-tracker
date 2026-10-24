@@ -1,0 +1,13 @@
+{
+  "name": "gps-tracker-app",
+  "version": "1.0.0",
+  "description": "Real-time GPS Tracking System with Node.js and Leaflet.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
